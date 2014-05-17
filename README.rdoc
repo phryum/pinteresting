@@ -1,4 +1,4 @@
-# One Month Rails
+# Authage
 
 This is the pinteresting sample application for 
 [*Authage*](http://authage.com)
